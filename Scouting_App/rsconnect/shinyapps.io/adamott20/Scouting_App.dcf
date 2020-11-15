@@ -1,0 +1,12 @@
+name: Scouting_App
+title: Scouting_App
+username:
+account: adamott20
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3234525
+bundleId: 3861686
+url: https://adamott20.shinyapps.io/Scouting_App/
+when: 1605408135.64113
+asMultiple: FALSE
+asStatic: FALSE
